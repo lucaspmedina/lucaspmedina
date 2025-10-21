@@ -1,5 +1,4 @@
 ### Hi there 👋
-🌱 My name is Lucas(He/Him) and I’m currently learning NextJs at Kenzie Academy Brazil
  
 ---
 
